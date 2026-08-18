@@ -1,6 +1,6 @@
 ![banner](banner.png)
 <h3 align="center">Get to Know Me!</h3>
-<p align="center">Currently focusing on Brain Computer Interface topics (EEG/fMRI/Signal Processing for Neuroscience) and Data Science. Sometimes I also write my thoughts out but that's for another day.</p> 
+<p align="center">I go by Aura Amrah, or maybe more well known as Aura, studying Computer Engineering in Ankara University as an upcoming 3rd year student. Currently focusing on Brain Computer Interface topics (EEG/fMRI/Signal Processing for Neuroscience) and Data Science. Sometimes I also write my thoughts out but that's for another day.</p> 
 <br>
 
 <p align="center">See my progress here: <a href="https://github.com/Bananadaddy/nilearn">Nilearn and General Neuroscience stuff</a> </p>
